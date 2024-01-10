@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if __name__ == "__import__":
+if __name__ == "__name__":
    def add(a, b):
 
    from add_0 import add
