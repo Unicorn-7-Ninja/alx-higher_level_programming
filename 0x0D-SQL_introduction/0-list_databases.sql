@@ -1,2 +1,2 @@
--- Lists all databases of my MySQL server.
-SHOW DATABASES;
+# Execute MySQL query to list databases
+mysql -e "SHOW DATABASES;"
